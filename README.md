@@ -74,5 +74,5 @@
 
 ### ⚡ Fun fact:
 
-- I love exploring new backend technologies and working on side projects to enhance my skills.
+- I love exploring new backend technologies and working on side projects to enhance my skills...
 
